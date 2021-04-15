@@ -1,11 +1,11 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
-      "appName": "Sweet Snap Live Filter - Snap Cat Face Camera",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera",
+      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
+      "appName": "Filters for Snapchat",
+      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
+      "package": "chu.sweet.snap.filters.snapchat",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
