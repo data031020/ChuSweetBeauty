@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
-      "appName": "Filters for Snapchat",
+      "appName": "Filters for Selfies",
       "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "chu.sweet.snap.filters.snapchat",
+      "package": "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
