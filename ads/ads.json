@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.jpg",
-      "appName": "Selfie Camera Filter",
-      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "foto.arte.selfie.camera.filter.beauty",
+      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.jpg",
+      "appName": "Album Cover Maker",
+      "description": "Design the covers of your album cover maker using advanced feature and stylish filters to make your music a hit.",
+      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
-      "appName": "Album Cover Maker",
-      "description": "Design the covers of your album cover maker using advanced feature and stylish filters to make your music a hit.",
-      "package": "com.photo.beauty.plus.album.cover",
+      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
+      "appName": "Selfie Camera Filter",
+      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
+      "package": "foto.arte.selfie.camera.filter.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
