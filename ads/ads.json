@@ -2,7 +2,7 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.jpg",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
       "appName": "Album Cover Maker",
       "description": "Design the covers of your album cover maker using advanced feature and stylish filters to make your music a hit.",
       "package": "com.photo.beauty.plus.album.cover",
