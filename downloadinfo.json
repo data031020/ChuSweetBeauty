@@ -1,5 +1,14 @@
 [
   {
+    "com.photo.beauty.plus.filters.pictures": {
+      "ads_list": ["mp"],
+      "mp_ba": "e8nYBt8NvHlPSmDoDzyMcZdUpVC7bet7ccDb1PbswoFdZUAA0nj5YLT1u0InroeN",
+      "mp_re": "gMe2emwYlhUDyek0cxwyHGlTwkNOOmNePlJIpr2cHcwTsDs3c03PSBwIMjWqrtJ1",
+      "mp_in": "SQeD6eUCN6GYVVrQOc/9rmubuGv/cU36RqdARWMnTi76MEJHWKHLKvs61PYXJ9ju",
+      "mp_na": "Oz30fvqN1RVDIvc40Q6VQdQ8cU39XrZ8gYjhNMZDEN1zbOPUNeY6gbJAZzhJGPpG"
+    }
+  },
+  {
     "chu.sweet.snap.filters.snapchat": {
       "ads_list": ["am"],
       "am_ba": "",
