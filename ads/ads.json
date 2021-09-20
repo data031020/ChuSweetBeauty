@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
-      "appName": "Album Cover Maker",
-      "description": "Design the covers of your album cover maker using advanced feature and stylish filters to make your music a hit.",
-      "package": "com.photo.beauty.plus.album.cover",
+      "appName": "Selfie Camera Filters",
+      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
+      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
