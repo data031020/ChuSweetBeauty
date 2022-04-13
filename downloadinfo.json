@@ -21,6 +21,15 @@
     }
   },
   {
+    "com.beauty.photo.test": {
+      "am2_ba": "AV+OldoRZ3Ib9CptxOVamP8Df0JbMZrh8P1hIiszyKulxZdSsdNqh8wRc4LF1yqT",
+      "am2_in": "AV+OldoRZ3Ib9CptxOVamMrPdUGcX58wl+pCgRPC+uar6Q0xWFvyRwZ9RWfyro6B",
+      "am2_na": "AV+OldoRZ3Ib9CptxOVamF08hQkm7klbbsgwYj7gwMiBrdIyMWQGVUChhYdWS8JF",
+
+      "ads_list": ["am"]
+    }
+  },
+  {
     "com.beauty.photo.editor": {
       "am_ba": "vJjHow6iuLPcWbnajyCL3pSvuvreAHZRK4/Hazj80UmPT0Gddu/oCse4TJ9DB8ec",
       "am_in": "vJjHow6iuLPcWbnajyCL3qTy1+NecdqceoqsRYquQ/OaffZ4HFsMrh5uXxkPtu9w",
@@ -38,7 +47,8 @@
   },
   {
     "common": {
-
+      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", 
+            "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
     }
   }
 ]
