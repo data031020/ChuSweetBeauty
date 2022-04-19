@@ -1,12 +1,16 @@
 [
   {
     "com.photo.beauty.plus.filters.pictures": {
-      "ads_list": ["am", "is"],
+      "ads_list": ["am", "al", "is"],
 
       "am_ba": "EtEIoIBZBsrm+NkKONXkCk6sdXdQ8HqaEL5a/F7vKM/aB/z1PE2TsKb70Hz46oTQ",
       "am_in": "EtEIoIBZBsrm+NkKONXkCm++DiulKsnpxRUCRVzOBG7V8hHQ6liyMWUlxSJK4DsP",
       "am_vi": "",
       "am_na": "EtEIoIBZBsrm+NkKONXkCvbnLO6eAd0a84ODluEjpyBnTVzbSIKRApQ8TrWypPvk",
+
+      "al_ba": "8cu5caZZvDNl++1edtcvTf0BAOVPtVBUqBnGToEtTxc=",
+      "al_in": "oKk6UM7r/yWPR+u4H0quFE6v5NiM2t/6j0TRwgHhPqI=",
+      "al_re": "ylEGGXYpBV5EnrhwqH91cFAhxZiV/jorx+2i/AaLEYE=",
 
       "is_id": "hdB4I+hCNpTFLAxAKvzJ1g=="
     }
