@@ -1,7 +1,9 @@
 [
   {
     "com.photo.beauty.plus.filters.pictures": {
-      "ads_list": ["am", "al", "is"],
+      "ads_list": ["al", "is","am"],
+
+      "interval": 15000,
 
       "am_ba": "EtEIoIBZBsrm+NkKONXkCk6sdXdQ8HqaEL5a/F7vKM/aB/z1PE2TsKb70Hz46oTQ",
       "am_in": "EtEIoIBZBsrm+NkKONXkCm++DiulKsnpxRUCRVzOBG7V8hHQ6liyMWUlxSJK4DsP",
