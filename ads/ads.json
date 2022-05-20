@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
+      "appName": "Sweet Face Camera",
+      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
+      "package": "sweet.snap.face.camera.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
       "appName": "Filters for Selfies",
       "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
       "package": "filters.selfies.foto.art",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
-      "appName": "Selfie Camera Filters",
-      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
