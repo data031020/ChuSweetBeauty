@@ -1,14 +1,14 @@
 [
   {
     "com.photo.beauty.plus.filters.pictures": {
-      "ads_list": ["is","al", "am"],
+      "ads_list": ["am", "is","al"],
 
-      "interval": 15000,
+      "interval": 60000,
 
-      "am_ba": "EtEIoIBZBsrm+NkKONXkCk6sdXdQ8HqaEL5a/F7vKM/aB/z1PE2TsKb70Hz46oTQ",
-      "am_in": "EtEIoIBZBsrm+NkKONXkCm++DiulKsnpxRUCRVzOBG7V8hHQ6liyMWUlxSJK4DsP",
+      "am_ba": "fwR95LYhNX8Gq2E+Mvh8JQ8ofbmzdWt78EsxUy4qWyHyZtkhNR6hpXCkYPdr5IoM",
+      "am_in": "fwR95LYhNX8Gq2E+Mvh8JZ9PiQ9PMt9gszbF43btT6DqBI40slg7vu7CEhXx314h",
       "am_vi": "",
-      "am_na": "EtEIoIBZBsrm+NkKONXkCvbnLO6eAd0a84ODluEjpyBnTVzbSIKRApQ8TrWypPvk",
+      "am_na": "fwR95LYhNX8Gq2E+Mvh8JSC4Iv3wJr34ycazv5dAcKFkjQq2ov3A7rSIxZ4/fi2X",
 
       "al_ba": "8cu5caZZvDNl++1edtcvTf0BAOVPtVBUqBnGToEtTxc=",
       "al_in": "oKk6UM7r/yWPR+u4H0quFE6v5NiM2t/6j0TRwgHhPqI=",
