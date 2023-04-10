@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
+      "appName": "Filters for pictures",
+      "description": "Has given you the chance to look super kawaii with hundred of emoji background, light crown, dog face, heart face, sweet face...",
+      "package": "filters.pictures.beauty",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic1.png",
       "appName": "Hair color changer",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
       "package": "foto.arte.hair.color.changer",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/iconnew.png",
-      "cover": "https://raw.githubusercontent.com/data031020/ChuSweetBeauty/master/ads/graphic.png",
-      "appName": "Neon Horns Devil Error",
-      "description": "Has given you the chance to look super kawaii with hundred of emoji background, light crown, dog face, heart face, sweet face...",
-      "package": "neon.horns.devil",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
