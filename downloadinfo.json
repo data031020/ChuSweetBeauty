@@ -1,6 +1,6 @@
 [
   {
-    "com.photo.beauty.plus.filters.pictures.ne": {
+    "com.photo.beauty.plus.filters.pictures": {
       "ads_list": ["am", "is", "al"],
 
       "interval": 45000,
