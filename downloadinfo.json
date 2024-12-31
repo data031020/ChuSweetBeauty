@@ -1,6 +1,6 @@
 [
   {
-    "com.photo.beauty.plus.filters.pictures": {
+    "com.photo.beauty.plus.filters.pictures.prime4g": {
       "ads_list": ["am", "is", "al"],
 
       "interval": 45000,
@@ -21,7 +21,7 @@
     }
   },
   {
-    "com.photo.beauty.plus.filters.pictures.bk": {
+    "com.photo.beauty.plus.filters.pictures": {
       "ads_list": ["is","al"],
 
       "interval": 60000,
