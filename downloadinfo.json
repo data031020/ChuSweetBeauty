@@ -1,16 +1,14 @@
 [
   {
-    "com.photo.beauty.plus.filters.pictures.prime4g": {
-      "ads_list": ["am", "is", "al"],
+    "com.photo.beauty.plus.filters.pictures.bk": {
+      "ads_list": ["is","al"],
 
-      "interval": 45000,
+      "interval": 60000,
 
       "am_ba": "",
-      "am_in": "PUjA1Sg3/rb8eUXe8OLNzEC6iyPpllkeJ5fyFTcfbvgRBmnUt8a5ACIRiPJ7HodP",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
-
-      "app_id": "ca-app-pub-1113697086569953~2707239216",
 
       "al_ba": "8cu5caZZvDNl++1edtcvTf0BAOVPtVBUqBnGToEtTxc=",
       "al_in": "oKk6UM7r/yWPR+u4H0quFE6v5NiM2t/6j0TRwgHhPqI=",
@@ -22,14 +20,16 @@
   },
   {
     "com.photo.beauty.plus.filters.pictures": {
-      "ads_list": ["is","al"],
+      "ads_list": ["am", "is","al"],
 
       "interval": 60000,
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1113697086569953/1344466676",
       "am_vi": "",
       "am_na": "",
+
+      "app_id": "ca-app-pub-1113697086569953~2707239216",
 
       "al_ba": "8cu5caZZvDNl++1edtcvTf0BAOVPtVBUqBnGToEtTxc=",
       "al_in": "oKk6UM7r/yWPR+u4H0quFE6v5NiM2t/6j0TRwgHhPqI=",
