@@ -20,16 +20,16 @@
   },
   {
     "com.photo.beauty.plus.filters.pictures": {
-      "ads_list": ["am", "is","al"],
+      "ads_list": ["is","al"],
 
       "interval": 60000,
 
       "am_ba": "",
-      "am_in": "beUJmIwyahT1F/BVbCIVu+6eiC/UGvBr+D7pIElOz9BNQtkkUVJb49n+mqrF74IU",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
-      "app_id": "ca-app-pub-3678658749858723~6799624247",
+      "app_id": "",
 
       "al_ba": "8cu5caZZvDNl++1edtcvTf0BAOVPtVBUqBnGToEtTxc=",
       "al_in": "oKk6UM7r/yWPR+u4H0quFE6v5NiM2t/6j0TRwgHhPqI=",
